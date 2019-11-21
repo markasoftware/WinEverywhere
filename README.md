@@ -1,6 +1,6 @@
 A browser extension that automatically answers polleverywhere questions.
 
-#Installation Process
+**Installation Process**
 1) Download the code or clone the repository
 2) Open up chrome
 3) type in "chrome://extensions" into the search bar and press enter
@@ -11,7 +11,7 @@ A browser extension that automatically answers polleverywhere questions.
 
 you're done!
 
-#Turning it on and off
+**Turning it on and off**
 1) click the WinEverywhere icon (top right, looks like a 'W')
 2) click manage extensions
 3) turn WinEverywhere on or off.
