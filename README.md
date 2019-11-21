@@ -1,7 +1,7 @@
 A browser extension that automatically answers polleverywhere questions.
 
 **Installation Process**
-1) Download the code or clone the repository
+1) Download the code or clone the repository. If you download, make sure to unzip the folder.
 2) Open up chrome
 3) type in "chrome://extensions" into the search bar and press enter
 4) turn on developer mode (should be the toggle on the top right)
