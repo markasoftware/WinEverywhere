@@ -1,0 +1,12 @@
+{
+  "name": "WinEverywhere",
+  "version": "1.0",
+  "description": "Answer PollEverywhere questions everywhere, everytime.",
+  "content_scripts": [
+    {
+      "matches": ["https://pollev.com/*"],
+      "js": ["answerQuestions.js"]
+    }
+  ],
+  "manifest_version": 2
+}
