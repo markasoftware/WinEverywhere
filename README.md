@@ -19,4 +19,6 @@ you're done!
 **Using it**
 Once Installation is complete, you can open a tab with 'pollev.com/whatever123'. You must sign in if you aren't already signed in. You can minimize this tab. The extension will continue to automatically answer any multiple choice questions on any polleverywhere chrome tab. If youter close the tab, the extension will stop answering questions.
 
+**Notes**
 This extension can only modify and read data on sites with the 'pollev.com' prefix.
+This extension currently answers questions randomly. This is great if you just want any answer (i.e. the actual answer doesn't matter, the poll is for participation purposes), but not so great if you want the 'correct' answer.
