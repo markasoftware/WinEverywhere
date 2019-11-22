@@ -11,7 +11,12 @@ A browser extension that automatically answers polleverywhere questions.
 
 you're done!
 
-**Turning it on and off**
+**Turning it On or Off**
 1) click the WinEverywhere icon (top right, looks like a 'W')
 2) click manage extensions
 3) turn WinEverywhere on or off.
+
+**Using it**
+Once Installation is complete, you can open a tab with 'pollev.com/whatever123'. You must sign in if you aren't already signed in. You can minimize this tab. The extension will continue to automatically answer any multiple choice questions on any polleverywhere chrome tab. If youter close the tab, the extension will stop answering questions.
+
+This extension can only modify and read data on sites with the 'pollev.com' prefix.
